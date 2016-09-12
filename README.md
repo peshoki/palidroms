@@ -18,7 +18,7 @@ How to use:
   ```
   sudo docker run -it --rm palidroms python setup.py test
   ```
-0. Run chalange.
+0. Run challenge.
   ```
   sudo docker run -it --rm palidroms palidroms
   ```
